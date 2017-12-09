@@ -1,0 +1,9 @@
+E:\2.Projects\Demo\Demo\bin\Debug\Demo.exe.config
+E:\2.Projects\Demo\Demo\bin\Debug\Demo.exe
+E:\2.Projects\Demo\Demo\bin\Debug\Demo.pdb
+E:\2.Projects\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\2.Projects\Demo\Demo\obj\Debug\Demo.Demo.resources
+E:\2.Projects\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\2.Projects\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+E:\2.Projects\Demo\Demo\obj\Debug\Demo.exe
+E:\2.Projects\Demo\Demo\obj\Debug\Demo.pdb
